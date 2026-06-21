@@ -36,6 +36,15 @@ Dieses Demo-Repo zeigt die Kernidee des Buchs:
 - Der Agent arbeitet im Projekt, nicht in einem geschlossenen Format.
 - Export und Veröffentlichung sind letzte, technische Schritte.
 
+Direkt klonen:
+
+```bash
+git clone https://github.com/joreichhardt/public-demo-repo.git
+cd public-demo-repo
+python3 scripts/test_repo.py
+sh scripts/build.sh
+```
+
 ## Vor der Veröffentlichung
 
 - Text unter CC BY-SA 4.0, Code unter MIT.
