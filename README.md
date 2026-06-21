@@ -38,6 +38,6 @@ Dieses Demo-Repo zeigt die Kernidee des Buchs:
 
 ## Vor der Veröffentlichung
 
-- Text unter CC BY 4.0, Code unter MIT.
+- Text unter CC BY-SA 4.0, Code unter MIT.
 - Echte Exportdateien nur dann hinzufügen, wenn sie öffentlich sein dürfen.
 - Sensible Quellen, Rohentwürfe und private Notizen draußen lassen.
