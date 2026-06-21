@@ -14,8 +14,9 @@ offenen Schreibworkflow.
 ## Inhalt
 
 - `AGENTS.md`: Regeln für die Zusammenarbeit mit dem Coding Agent
+- `LICENSE.text` und `LICENSE.code`: getrennte Lizenzen für Text und Code
 - `planung/`: Ziel, Abgrenzung und Kapitelidee
-- `manuskript/`: ein kurzer Beispieltext
+- `manuskript/`: eine kurze Beispielgeschichte und Arbeitskapitel
 - `export/`: Hinweise für EPUB- und Druckausgabe
 - `scripts/`: Platz für kleine Build-Helfer
 
@@ -24,7 +25,8 @@ offenen Schreibworkflow.
 1. `planung/expose.md`
 2. `planung/kapitelplan.md`
 3. `AGENTS.md`
-4. `manuskript/kapitel-01.md`
+4. `manuskript/geschichte.md`
+5. `manuskript/kapitel-01.md`
 
 ## Wofür das Repo steht
 
@@ -36,6 +38,6 @@ Dieses Demo-Repo zeigt die Kernidee des Buchs:
 
 ## Vor der Veröffentlichung
 
-- Ein klares Lizenzfile ergänzen.
+- Text unter CC BY 4.0, Code unter MIT.
 - Echte Exportdateien nur dann hinzufügen, wenn sie öffentlich sein dürfen.
 - Sensible Quellen, Rohentwürfe und private Notizen draußen lassen.
