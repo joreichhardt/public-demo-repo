@@ -1,0 +1,6 @@
+build/
+dist/
+*.epub
+*.pdf
+*.odt
+
