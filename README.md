@@ -34,3 +34,8 @@ Dieses Demo-Repo zeigt die Kernidee des Buchs:
 - Der Agent arbeitet im Projekt, nicht in einem geschlossenen Format.
 - Export und Veröffentlichung sind letzte, technische Schritte.
 
+## Vor der Veröffentlichung
+
+- Ein klares Lizenzfile ergänzen.
+- Echte Exportdateien nur dann hinzufügen, wenn sie öffentlich sein dürfen.
+- Sensible Quellen, Rohentwürfe und private Notizen draußen lassen.
