@@ -1,34 +1,33 @@
 # Geschichte
 
-Als Nora den Ordner öffnete, war der erste Satz noch unscharf.
+Als Nora den Ordner öffnete, roch der Morgen noch nach Kaffee und kaltem Papier.
 
-Sie hatte ihn am Abend vorher im Kopf, beim Abwasch, zwischen zwei E-Mails und einer
-Nachricht, die sie nicht beantworten wollte. Jetzt stand er auf dem Bildschirm in
-einer klaren Zeile, zwischen zwei Überschriften und einem Kommentar des Agents:
-`TODO: Einstieg präzisieren`.
+Der erste Satz stand schon da, sauber gesetzt, aber zu höflich. Er erklärte die
+Szene, bevor sie sie überhaupt betreten hatte. Daneben wartete der Kommentar des
+Agents:
 
-Nora las den Satz noch einmal. Er war nicht falsch. Er war nur zu brav. Er erklärte
-die Szene, bevor sie überhaupt begonnen hatte.
+`TODO: Einstieg präzisieren`
 
-Sie schob die Hand vom Tischrand weg, öffnete das Projektverzeichnis und sah in die
-Dateien, die dort lagen wie auf einem gut sortierten Arbeitstisch: `README.md`,
-`AGENTS.md`, `planung/`, `manuskript/`, `export/`. Nichts davon schrieb ihr das
-Kapitel vor. Aber alles erinnerte sie daran, dass eine Idee erst dann wirklich
-arbeitete, wenn sie einen Ort hatte.
+Sie lehnte sich zurück. Nicht falsch, dachte sie. Nur zu ordentlich. Als hätte der
+Satz sich vor dem Leben der Szene verbeugt.
 
-Der Agent hatte am Morgen eine kurze Aufgabe bekommen: den Absatz kürzen, den Ton
-weniger erklärend machen, den Gegenstand der Szene früher zeigen. Keine neue Szene,
-kein neues Personal, keine Erfindung. Nur Arbeit am Bestand.
+Im Projektverzeichnis lagen die Dateien wie Werkzeuge auf einem Tisch:
+`README.md`, `AGENTS.md`, `planung/`, `manuskript/`, `export/`. Nichts davon war
+Literatur. Aber alles zusammen machte Literatur möglich, weil nichts verlorenging.
 
-Nora strich den Satz durch und schrieb:
+Der Agent hatte nur einen klaren Auftrag bekommen: kürzen, früher zur Sache kommen,
+keine neue Szene erfinden. Nora mochte diese Art von Hilfe. Sie versprach kein
+Wunder, sondern eine zweite Hand am gleichen Text.
+
+Sie strich den Satz durch.
+
+Dann schrieb sie:
 
 „Der Ordner war schon offen."
 
-Das war besser. Nicht, weil es klangvoller war. Sondern weil der Satz etwas tat. Er
-setzte die Bewegung vor die Erklärung.
+Plötzlich war da Bewegung. Nicht viel. Aber genug, damit die Szene nicht mehr
+behauptete, sondern anfing.
 
-Sie speicherte die Datei, sah auf die Git-Historie und wusste, dass der nächste
-Versuch nicht verloren gehen würde. Das war der Teil, den sie früher nie hatte:
-eine kleine, sichtbare Erinnerung daran, dass auch ein misslungener Satz eine
-Zwischenstation sein konnte.
-
+Sie speicherte die Datei. Später würde sie den Unterschied im Git-Verlauf sehen:
+erst die glatte Fassung, dann der kleine Einschnitt, dann die bessere Stelle. Es war
+keine große Geste. Nur eine Spur, die man wiederfinden konnte.
